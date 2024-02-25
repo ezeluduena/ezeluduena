@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning python backend development with FastAPI
+- 🌱 I’m currently learning python backend development with FastAPI.
+- 👯 I’m looking to collaborate on Odoo.
+- 📫 How to reach me: ezeluduena123@gmail.com
 <!--
 **ezeluduena/ezeluduena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
