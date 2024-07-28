@@ -10,6 +10,11 @@ A computer science student from Córdoba, Argentina, embarking on my journey in 
 Feel free to check out my projects and connect with me!
 
 ### My skills include
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=python,fastapi,flask,docker,postgresql,linux,git,bash,java,vim" />
+  </a>
+</p>
 
 <hr>
 <p align="center">
