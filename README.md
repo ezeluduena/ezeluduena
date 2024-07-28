@@ -1,19 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I'm Ezequiel Ludueña
+A computer science student from Córdoba, Argentina, embarking on my journey in the software industry. 
 
-- 🌱 I’m currently learning python backend development with FastAPI.
-- 👯 I’m looking to collaborate on Odoo.
-- 📫 How to reach me: ezeluduena123@gmail.com
-<!--
-**ezeluduena/ezeluduena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Currently in my third year at the Universidad Nacional de Córdoba.
+- 🔧 Passionate about backend development and system administration of Linux machines 🐧.
+- 💻 Enthusiast of free and open-source software.
+- 🌱 Enjoy recycling and breathing new life into old computers.
+- 💬 Talk to me about soccer ⚽, bikes 🚲, movies 🎦 and series 📺.
 
-Here are some ideas to get you started:
+Feel free to check out my projects and connect with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills include
+
+<hr>
+<p align="center">
+<a target="_blank" href="https://ezeluduena-me.vercel.app/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://www.linkedin.com/in/ezeluduena/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:ezeluduena123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+<br>
+</p>       
