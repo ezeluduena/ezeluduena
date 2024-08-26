@@ -5,7 +5,7 @@ A computer science student from Córdoba, Argentina, embarking on my journey in 
 - 🔧 Passionate about backend development and system administration of Linux machines 🐧.
 - 💻 Enthusiast of free and open-source software.
 - 🌱 Enjoy recycling and breathing new life into old computers.
-- 💬 Talk to me about soccer ⚽, bikes 🚲, movies 🎦 and series 📺.
+- 💬 Talk to me about soccer ⚽ and bikes 🚲.
 
 Feel free to check out my projects and connect with me!
 
