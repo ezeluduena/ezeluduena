@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ezequiel Ludueña
-A computer science student from Córdoba, Argentina, embarking on my journey in the software industry. 
+A computer science student from Córdoba, Argentina. 
 
-- 🎓 Currently in my third year at the Universidad Nacional de Córdoba.
+- 🎓 Currently in my fourth year at the Universidad Nacional de Córdoba.
 - 🔧 Passionate about backend development and system administration of Linux machines 🐧.
 - 💻 Enthusiast of free and open-source software.
 - 🌱 Enjoy recycling and breathing new life into old computers.
